@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* id é unico para determinada tag 
+class pode ser usada para diferentes tags 
+dar nomes de acordo com a função, não a forma
+id em html no css é # 
+class em html no css é .*/
+body {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(107, 52, 33);
+}
+
+h1#principal {
+    text-align: center;
+    background-color: rgba(177, 163, 144, 0.637);
+    color: black;
+}
+
+h2 {
+    color: rgb(109, 80, 7);
+}
